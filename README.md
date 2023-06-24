@@ -67,7 +67,6 @@ Another reason that I would prefer the XGBoost classifier is because its perform
 
 The best model confusion matrix and important features are below:
 
-Confusion matrix:
 ![Confusion matrix](https://github.com/thao2023/Phase_3_Project/assets/131706716/d46d8312-cb98-4e8f-b171-8fa2753e6df6)
 
 
